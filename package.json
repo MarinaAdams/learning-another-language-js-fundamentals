@@ -9,11 +9,17 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "An activity to practice expressing code concepts we know from Python in JavaScript, to accompany the Learning Another Language lesson.",
   "devDependencies": {
     "@eslint/js": "^9.15.0",
     "eslint": "^9.15.0"
   },
-  "dependencies": {
-  }
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarinaAdams/learning-another-language-js-fundamentals.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MarinaAdams/learning-another-language-js-fundamentals/issues"
+  },
+  "homepage": "https://github.com/MarinaAdams/learning-another-language-js-fundamentals#readme"
 }
